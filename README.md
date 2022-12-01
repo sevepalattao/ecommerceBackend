@@ -6,7 +6,7 @@ For this challenge it was my job to build the back end for an e-commerce site. I
 To seed the database I ran the command ``` node seeds/index.js```
 To start the application's server, I ran the command ```node server.js```
 
-# Link
+## Link
 
 Here is the link to my walkthrough video: https://app.castify.com/view/681b8417-e90d-4bbe-a196-80493fc62d42
 This video shows the commands above as well as Insomnia testing each CRUD operation of the API.
